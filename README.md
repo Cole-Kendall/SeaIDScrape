@@ -7,7 +7,6 @@ You need:
 - Windows 10 or newer
 - Internet access
 - An authorized company username and password
-- Permission to access and store the employee information produced by this project
 
 ## Set up the project
 
