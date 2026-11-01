@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Playwright: Run Tests",
+      "type": "shell",
+      "command": "npm test",
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "Playwright: Open UI",
+      "type": "shell",
+      "command": "npm run test:ui",
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}
